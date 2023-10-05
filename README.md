@@ -21,8 +21,8 @@ transaction_analyzer.py: The main Python script containing the application logic
 Python 3.x
 tkinter (usually comes pre-installed with Python)
 
-![image](https://github.com/kapalulz/Bank_transactions_python/assets/17459523/f389e0db-3cdc-4abc-a895-2d0d3b770690)
-![image](https://github.com/kapalulz/Bank_transactions_python/assets/17459523/fb17bd74-7f87-47f0-b932-30aa2032fa48)
-![image](https://github.com/kapalulz/Bank_transactions_python/assets/17459523/3dc9d660-1548-4f6b-ba52-1e384d0c1d72)
-![image](https://github.com/kapalulz/Bank_transactions_python/assets/17459523/019bd398-6729-4819-b186-3bbeb48f7c05)
+![image](https://github.com/kapalulz/Bank_transactions_python/assets/17459523/7f8743ba-c8d6-4399-8141-d49a8be929d0)
+![image](https://github.com/kapalulz/Bank_transactions_python/assets/17459523/f5b51385-89b7-406f-a1cf-0d313aff684c)
+![image](https://github.com/kapalulz/Bank_transactions_python/assets/17459523/dad0fdf8-2e29-4a5a-be5c-c615631f64a8)
+![image](https://github.com/kapalulz/Bank_transactions_python/assets/17459523/1db6c781-4827-4dcc-a0ee-ce2c8b7bd784)
 
