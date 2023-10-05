@@ -22,7 +22,8 @@ Python 3.x
 tkinter (usually comes pre-installed with Python)
 
 ![image](https://github.com/kapalulz/Bank_transactions_python/assets/17459523/7f8743ba-c8d6-4399-8141-d49a8be929d0)
-![image](https://github.com/kapalulz/Bank_transactions_python/assets/17459523/f5b51385-89b7-406f-a1cf-0d313aff684c)
-![image](https://github.com/kapalulz/Bank_transactions_python/assets/17459523/dad0fdf8-2e29-4a5a-be5c-c615631f64a8)
-![image](https://github.com/kapalulz/Bank_transactions_python/assets/17459523/1db6c781-4827-4dcc-a0ee-ce2c8b7bd784)
+![image](https://github.com/kapalulz/Bank_transactions_python/assets/17459523/f409c94a-6ee1-4f13-a58d-1d49afbfaac2)
+![image](https://github.com/kapalulz/Bank_transactions_python/assets/17459523/56cedf8e-25b5-4601-8fb9-496a40863b6b)
+![image](https://github.com/kapalulz/Bank_transactions_python/assets/17459523/db521baf-9f09-47f7-a8c4-84da14ad24db)
+
 
