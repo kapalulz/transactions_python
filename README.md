@@ -21,10 +21,7 @@ transaction_analyzer.py: The main Python script containing the application logic
 Python 3.x
 tkinter (usually comes pre-installed with Python)
 
-![image](https://github.com/kapalulz/Bank_transactions_python/assets/17459523/7f8743ba-c8d6-4399-8141-d49a8be929d0)
-![image](https://github.com/kapalulz/Bank_transactions_python/assets/17459523/f409c94a-6ee1-4f13-a58d-1d49afbfaac2)
-![image](https://github.com/kapalulz/Bank_transactions_python/assets/17459523/56cedf8e-25b5-4601-8fb9-496a40863b6b)
-![image](https://github.com/kapalulz/Bank_transactions_python/assets/17459523/db521baf-9f09-47f7-a8c4-84da14ad24db)
-![image](https://github.com/kapalulz/transactions_python/assets/17459523/31c87e25-f712-466f-8e8d-365ccd619c45)
-
-
+![](https://cdn.discordapp.com/attachments/359470187088576514/1160032280299970703/image.png?ex=65332f3f&is=6520ba3f&hm=6709d8f64d78dacee8a4f8322cbf33663a1e1e63cef02b295fe35a70325a9fe6&)
+![](https://cdn.discordapp.com/attachments/359470187088576514/1160032610588840116/image.png?ex=65332f8e&is=6520ba8e&hm=7e74e075e7e40a9e7222d28274815b476fc9f8ba42010a3094cce82aac12519f&)
+![](https://cdn.discordapp.com/attachments/359470187088576514/1160032610861461514/image.png?ex=65332f8e&is=6520ba8e&hm=b47943ce47a0ebd9345035ae047add77a52079fd57124c1263f28ae9f1512fd1&)
+![](https://media.discordapp.net/attachments/359470187088576514/1160032611331219517/image.png?ex=65332f8e&is=6520ba8e&hm=b4270b01a40c8da3986cac94fa5c06de37940da3f4a180b9d57a83632a7c75e1&=)
